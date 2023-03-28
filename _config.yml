@@ -10,15 +10,13 @@ url: "" # the base hostname & protocol for your site
 
 # User setting
 owner:
-email:
-facebook_username:
-twitter_username:
-github_username:
+email: henryqbonilla@gmail.com
+github_username: henryqbonilla
 address:
   - line:
   - line:
   # Feel free to add more lines here 
-telephone:
+telephone: 2402812841
 copyright:
 
 # API settings
