@@ -200,6 +200,8 @@ hr.small {
 
 .portfolio-item {
     margin-bottom: 30px;
+    border-radius: 20px;
+    outline: 2px solid #10a8da;
 }
 
 .img-portfolio {
