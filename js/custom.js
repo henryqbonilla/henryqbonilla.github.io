@@ -38,3 +38,8 @@ $(document).ready(function() {
     $('#map_iframe').addClass('scrolloff');
   });
 });
+
+// Bounce animation call
+document.getElementById('bounceButton').addEventListener('click', function() {
+    this.style.animation = 'bounce 2s infinite';
+});
